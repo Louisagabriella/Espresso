@@ -11,7 +11,6 @@
 <resources>
     <string name="app_name">TeaTime</string>
 
-    <!--Activity Toolbar Titles-->
     <string name="menu_title">Menu</string>
     <string name="order_title">Order</string>
     <string name="order_summary_title">Order Summary</string>
@@ -69,6 +68,7 @@
 
     <!--Loading message-->
     <string name="done_msg">Your tea is ready!</string>
+    <string name="loading_msg">Loading images</string>
 
 
     <!--Spinner Options-->
