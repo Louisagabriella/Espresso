@@ -55,6 +55,12 @@ TeaTime adalah aplikasi memesan teh tiruan yang menunjukkan berbagai kegunaan ke
 </ol>
 <b>KESIMPULAN: DARI INITIAL COMMIT INI KITA MEMBUAT APIKASI MEMESAN TEH TIRUAN YANG MENUNJUKKAN BERBAGAI KEGUNAAN KERANGKA PENGUJIAN ESPROSSO (yaitu Views, AdapterViews, Intents, IdlingResources). </b>
 
+
+## FinishOrderActivityBasicTest Commit Screenshots
+
+<b>KESIMPULAN: Kita akan mulai dengan menambahkan OrderActivityBasicTest yang akan menunjukkan pengguna yang mengklik tombol pengurangan dan memverifikasi bahwa ini tepat mengurangi jumlah biaya total. </b>
+
+
 ## Identitas
 <b> NAMA: LOUISA GABRIELLA <br>
     KELAS : XII RPL5 <br>
